@@ -36,6 +36,15 @@ const zhCNThemeConfig = {
                   <div style="font-size: 16px; font-weight: 600; padding-left: 8px">Fluent M3U8</div>
                 </div>`,
         copyright: '版权所有 © 2025 Shokokawaii Inc.'
+    },
+    
+    search: {
+        provider: 'algolia',
+        options: {
+            appId: '...',
+            apiKey: '...',
+            indexName: '...'
+        }
     }
 }
 

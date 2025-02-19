@@ -36,6 +36,15 @@ const enUSThemeConfig = {
                   <div style="font-size: 16px; font-weight: 600; padding-left: 8px">Fluent M3U8</div>
                 </div>`,
         copyright: '© 2025 Shokokawaii Inc. All rights reserved.'
+    },
+
+    search: {
+        provider: 'algolia',
+        options: {
+            appId: '...',
+            apiKey: '...',
+            indexName: '...'
+        }
     }
 }
 
