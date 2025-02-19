@@ -2,3 +2,10 @@
     --vp-home-hero-name-color: transparent;
     --vp-home-hero-name-background: -webkit-linear-gradient(120deg, #00a4e1 30%, #6069ba);
 }
+
+@media (min-width: 960px) {
+    .image-src {
+        max-width: 510px !important;
+        max-height: 510px !important;
+    }
+}

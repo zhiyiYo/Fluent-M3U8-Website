@@ -5,13 +5,14 @@ const zhCNThemeConfig = {
     nav: [
         { text: '主页', link: '/zh/' },
         { text: '下载', link: '/zh/download' },
-        { text: '文档', link: '/zh/Guide' },
+        { text: '文档', link: '/zh/quick-start' },
     ],
 
     sidebar: [
         {
-            text: '快速开始',
+            text: '',
             items: [
+                { text: '快速上手', link: '/zh/quick-start' },
                 { text: '下载', link: '/zh/download' },
                 { text: '支持我们', link: '/zh/support' },
             ]

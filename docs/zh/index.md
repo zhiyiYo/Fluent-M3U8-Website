@@ -7,15 +7,15 @@ hero:
   text: "美观、易用的跨平台 M3U8 下载器"
   tagline: 由 PySide6 和 QFluentWidgets 强势驱动
   image:
-    src: https://github.com/zhiyiYo/Fluent-M3U8/raw/main/docs/screenshot/%E4%B8%BB%E7%95%8C%E9%9D%A2.png
+    src: /img/Fluent-M3U8.png
     alt: VitePress
   actions:
     - theme: brand
-      text: 下载
+      text: 下载软件
       link: /zh/download
     - theme: alt
-      text: 文档
-      link: /zh/guide
+      text: 快速开始
+      link: /zh/quick-start
 
 features:
   - title: 界面简洁美观

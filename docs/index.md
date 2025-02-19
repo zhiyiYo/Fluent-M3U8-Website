@@ -7,15 +7,15 @@ hero:
   text: "Cross-platform M3U8 Downloader"
   tagline: Discover and download m3u8, mpd, and more
   image:
-    src: https://github.com/zhiyiYo/Fluent-M3U8/raw/main/docs/screenshot/%E4%B8%BB%E7%95%8C%E9%9D%A2.png
+    src: /img/Fluent-M3U8.png
     alt: VitePress
   actions:
     - theme: brand
       text: Download
       link: /download
     - theme: alt
-      text: Guide
-      link: /guide
+      text: Quickstart
+      link: /quick-start
 
 Here’s the translation to English:
 

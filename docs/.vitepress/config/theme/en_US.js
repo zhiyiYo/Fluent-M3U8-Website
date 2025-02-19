@@ -5,13 +5,14 @@ const enUSThemeConfig = {
     nav: [
         { text: 'Home', link: '/' },
         { text: 'Download', link: '/download' },
-        { text: 'Docs', link: '/Guide' },
+        { text: 'Docs', link: '/quick-start' },
     ],
 
     sidebar: [
         {
-            text: 'Quick start',
+            text: '',
             items: [
+                { text: 'Getting Started', link: '/quick-start' },
                 { text: 'Download', link: '/download' },
                 { text: 'Support', link: '/support' },
             ]

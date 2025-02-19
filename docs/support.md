@@ -4,7 +4,9 @@ Fluent M3U8, as an open-source project licensed under GPLv3, is dedicated to cre
 If you have extra funds to support Fluent M3U8, your generous donations will not only help the development team but also benefit every Fluent M3U8 user. Currently, you can donate to us in the following ways:
 
 ## Afdian
-<img src="/img/Afdian.jpg" style="height: 450px"/>
+<a href='https://afdian.com/a/zhiyiyo' target='_blank'>
+    <img src="/img/Afdian.jpg" style="height: 450px"/>
+</a>
 
 ## Ko-fi
 <a href='https://ko-fi.com/F1F2INCSV' target='_blank'>
