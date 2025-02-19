@@ -13,6 +13,7 @@ const zhCNThemeConfig = {
             text: '快速开始',
             items: [
                 { text: '下载', link: '/zh/download' },
+                { text: '支持我们', link: '/zh/support' },
             ]
         }
     ],

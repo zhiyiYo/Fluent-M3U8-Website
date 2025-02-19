@@ -13,6 +13,7 @@ const enUSThemeConfig = {
             text: 'Quick start',
             items: [
                 { text: 'Download', link: '/download' },
+                { text: 'Support', link: '/support' },
             ]
         }
     ],
