@@ -13,6 +13,3 @@ The online documentation of [Fluent-M3U8](https://github.com/zhiyiYo/Fluent-M3U8
    ```
 
 3. Check the docs on http://127.0.0.1:5173
-
-
-```

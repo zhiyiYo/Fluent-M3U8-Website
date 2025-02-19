@@ -3,4 +3,5 @@ docs/.vitepress/.temp
 node_modules
 .temp
 .cache
-dev/.vitepress/dist
+docs/.vitepress/dist
+.DS_Store
