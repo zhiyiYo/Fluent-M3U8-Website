@@ -5,7 +5,18 @@
 
 @media (min-width: 960px) {
     .image-src {
-        max-width: 510px !important;
-        max-height: 510px !important;
+        max-width: 500px !important;
+        max-height: 500px !important;
     }
+}
+
+/* @media (min-width: 640px) {
+    .image-src {
+        max-width: 320px !important;
+        max-height: 320px !important;
+    }
+} */
+
+.profile .avatar {
+    box-shadow: none !important;
 }

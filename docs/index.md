@@ -17,8 +17,6 @@ hero:
       text: Quickstart
       link: /quick-start
 
-Here’s the translation to English:
-
 features:
   - title: Simple and Beautiful
     icon: 🌟
@@ -29,19 +27,19 @@ features:
   - title: Supports Multiple Formats
     icon: ⏬
     details: Fully compatible with m3u8 and mpd video formats.
-    link: /guide
+    link: /quick-start
     linkText: Learn more
 
   - title: Multi-threaded Downloads
     icon: 🚀
     details: Squeeze out bandwidth resource, with fast downloading speeds
-    link: /guide
+    link: /quick-start
     linkText: Learn more
 
   - title: Download Management
     icon: ✅
     details: Real-time monitor of download progress.
-    link: /guide
+    link: /quick-start
     linkText: Learn more
 
 ---

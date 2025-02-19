@@ -3,6 +3,8 @@
 ## 下载软件
 点击 [这里](/zh/download) 下载最新版本的 Fluent M3U8。
 
+Windows 如果无法启动软件请使用管理员权限重试。
+
 ::: details macOS 提示应用程序已损坏的解决方案
 1. 打开 “终端” 执行如下命令：
 
@@ -20,7 +22,7 @@
 
 ## 使用方法
 
-<img src="/img/Fluent-M3U8.png" style="height: 500px"/>
+<img src="/img/Fluent-M3U8.png" style="height: 30%"/>
 
 ### 单个视频下载
 1. 填入 `.m3u8` 或者 `.mpd` 格式的下载链接
@@ -42,6 +44,6 @@
 4. 点击【▶️ 下载】按钮
 
 ### 任务管理
-<img src="/img/TaskInterface.png" style="height: 500px"/>
+<img src="/img/TaskInterface.png" style="height: 30%"/>
 
 下载任务界面会展示所有下载中、下载完成和下载失败的任务，点击任意一个卡片即可进入批量操作模式，方便用户同时操作多个任务。

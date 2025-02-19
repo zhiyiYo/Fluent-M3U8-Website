@@ -18,7 +18,7 @@ hero:
       link: /zh/quick-start
 
 features:
-  - title: 界面简洁美观
+  - title: 界面美观易用
     icon: 🌟
     details: 基于 Fluent Design 设计语言，软件界面简洁优雅、直观易用
     link: https://qfluentwidgets.com/zh/
@@ -26,17 +26,17 @@ features:
   - title: 支持多种格式
     icon: ⏬
     details: 全面兼容 m3u8 和 mpd 视频格式，支持批量下载
-    link: /guide
+    link: /zh/quick-start
     linkText: 查看用法
   - title: 多线程并发下载
     icon: 🚀
     details: 轻松榨干带宽资源，视频下载速度快到飞起
-    link: /guide
+    link: /zh/quick-start
     linkText: 了解更多
   - title: 智能下载管理
     icon: ✅
     details: 实时监控下载进度，提供便捷的任务管理功能
-    link: /guide
+    link: /zh/quick-start
     linkText: 了解更多
 ---
 

@@ -3,6 +3,8 @@
 ## Download Software
 Click [here](/download) to download the latest version of Fluent M3U8.
 
+If the software fails to start on Windows, please try running it with administrator privileges.
+
 ::: details Solution for macOS Warning about Damaged Application
 1. Open "Terminal" and execute the following command:
 
@@ -20,7 +22,7 @@ Click [here](/download) to download the latest version of Fluent M3U8.
 
 ## Usage
 
-<img src="/img/Fluent-M3U8.png" style="height: 500px"/>
+<img src="/img/Fluent-M3U8.png" style="height: 30%"/>
 
 ### Single Video Download
 1. Enter the download link in `.m3u8` or `.mpd` format.
@@ -42,6 +44,6 @@ Click [here](/download) to download the latest version of Fluent M3U8.
 4. Click the 【▶️ Download】 button.
 
 ### Task Management
-<img src="/img/TaskInterface.png" style="height: 500px"/>
+<img src="/img/TaskInterface.png" style="height: 30%"/>
 
 The download task interface displays all ongoing, completed, and failed download tasks. Click any card to enter batch operation mode, allowing users to manage multiple tasks simultaneously.
