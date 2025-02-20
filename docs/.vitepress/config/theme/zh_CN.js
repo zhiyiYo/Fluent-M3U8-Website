@@ -35,14 +35,14 @@ const zhCNThemeConfig = {
         copyright: '版权所有 © 2025 Shokokawaii Inc.'
     },
 
-    search: {
-        provider: 'algolia',
-        options: {
-            appId: 'YFA42XFQML',
-            apiKey: 'eaabaf0ba3a3a3d65eda5cdc8c94c3a7',
-            indexName: 'fluent-m3u8'
-        }
-    }
+    // search: {
+    //     provider: 'algolia',
+    //     options: {
+    //         appId: 'YFA42XFQML',
+    //         apiKey: 'eaabaf0ba3a3a3d65eda5cdc8c94c3a7',
+    //         indexName: 'fluent-m3u8'
+    //     }
+    // }
 }
 
 export default zhCNThemeConfig
