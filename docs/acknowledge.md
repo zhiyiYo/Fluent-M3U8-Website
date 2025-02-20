@@ -51,6 +51,6 @@ const members = [
 <VPTeamMembers size="small" :members="projects" />
 
 ## Development Team Members
-We also thank our development team members, who have contributed to the development of the Fluent M3U8 project.
+
 
 <VPTeamMembers size="small" :members="members" />

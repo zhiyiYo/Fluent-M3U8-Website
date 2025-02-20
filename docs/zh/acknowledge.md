@@ -42,7 +42,7 @@ const members = [
     title: '友情测试',
     links: [
       { icon: 'github', link: 'https://github.com/XiaoYouChR' },
-      { icon: 'bilibili', link: '«https://space.bilibili.com/437313511' },
+      { icon: 'bilibili', link: 'https://space.bilibili.com/437313511' },
     ],
   },
 ]
@@ -52,6 +52,6 @@ const members = [
 <VPTeamMembers size="small" :members="projects" />
 
 ## 开发组成员
-同时感谢我们的开发组成员，他们同样为了 Fluent M3U8 项目开发添砖加瓦。
+
 
 <VPTeamMembers size="small" :members="members" />
