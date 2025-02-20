@@ -21,4 +21,7 @@ export default defineConfig({
       themeConfig: zhCNThemeConfig
     }
   },
+  sitemap: {
+    hostname: 'https://fluent-meu8.org'
+  }
 })

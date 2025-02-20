@@ -38,9 +38,9 @@ const zhCNThemeConfig = {
     search: {
         provider: 'algolia',
         options: {
-            appId: '...',
-            apiKey: '...',
-            indexName: '...'
+            appId: 'YFA42XFQML',
+            apiKey: 'eaabaf0ba3a3a3d65eda5cdc8c94c3a7',
+            indexName: 'fluent-m3u8'
         }
     }
 }
