@@ -11,11 +11,11 @@ hero:
     alt: VitePress
   actions:
     - theme: brand
+      text: Get started
+      link: /quick-start
+    - theme: alt
       text: Download
       link: /download
-    - theme: alt
-      text: Quickstart
-      link: /quick-start
 
 features:
   - title: Simple and Beautiful

@@ -19,6 +19,7 @@ const enUSThemeConfig = {
                 { text: 'Download', link: '/download' },
                 { text: 'Support', link: '/support' },
                 { text: 'Acknowledge', link: '/acknowledge' },
+                { text: 'Changelog', link: '/changelog' },
             ]
         }
     ],

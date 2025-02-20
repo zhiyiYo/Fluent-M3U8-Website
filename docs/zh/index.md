@@ -11,11 +11,11 @@ hero:
     alt: VitePress
   actions:
     - theme: brand
-      text: 下载软件
-      link: /zh/download
-    - theme: alt
       text: 快速开始
       link: /zh/quick-start
+    - theme: alt
+      text: 下载
+      link: /zh/download
 
 features:
   - title: 界面美观易用

@@ -7,7 +7,6 @@ const zhCNThemeConfig = {
         { text: '下载', link: '/zh/download' },
         { text: '文档', link: '/zh/quick-start' },
         { text: '支持', link: '/zh/support' },
-        { text: '鸣谢', link: '/zh/acknowledge' },
         { text: '组件库', link: 'https://qfluentwidgets.com/zh/' },
     ],
 
@@ -19,6 +18,7 @@ const zhCNThemeConfig = {
                 { text: '下载', link: '/zh/download' },
                 { text: '支持', link: '/zh/support' },
                 { text: '鸣谢', link: '/zh/acknowledge' },
+                { text: '更新日志', link: '/zh/changelog' },
             ]
         }
     ],
