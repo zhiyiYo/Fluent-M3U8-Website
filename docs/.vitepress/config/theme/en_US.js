@@ -31,10 +31,7 @@ const enUSThemeConfig = {
     ],
 
     footer: {
-        message: `<div style="display: flex; justify-content: center; margin-bottom: 10px">
-                  <img src="/logo.png" style="height: 24px; width: 24px" alt="logo">
-                  <div style="font-size: 16px; font-weight: 600; padding-left: 8px">Fluent M3U8</div>
-                </div>`,
+        message: `Released under GPLv3 License`,
         copyright: '© 2025 Shokokawaii Inc. All rights reserved.'
     },
 

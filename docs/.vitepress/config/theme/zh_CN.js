@@ -31,13 +31,10 @@ const zhCNThemeConfig = {
     ],
 
     footer: {
-        message: `<div style="display: flex; justify-content: center; margin-bottom: 10px">
-                  <img src="/logo.png" style="height: 24px; width: 24px" alt="logo">
-                  <div style="font-size: 16px; font-weight: 600; padding-left: 8px">Fluent M3U8</div>
-                </div>`,
+        message: `根据 GPLv3 许可证进行授权`,
         copyright: '版权所有 © 2025 Shokokawaii Inc.'
     },
-    
+
     search: {
         provider: 'algolia',
         options: {
