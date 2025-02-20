@@ -6,8 +6,8 @@ const enUSThemeConfig = {
         { text: 'Home', link: '/' },
         { text: 'Download', link: '/download' },
         { text: 'Docs', link: '/quick-start' },
-        { text: 'Support', link: '/support' },
-        { text: 'Acknowledge', link: '/acknowledge' },
+        // { text: 'Support', link: '/support' },
+        // { text: 'Acknowledge', link: '/acknowledge' },
         { text: 'QFluentWidgets', link: 'https://qfluentwidgets.com' },
     ],
 
