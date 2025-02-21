@@ -35,6 +35,24 @@ const zhCNThemeConfig = {
         copyright: '版权所有 © 2025 Shokokawaii Inc.'
     },
 
+    editLink: {
+        pattern: 'https://github.com/zhiyiYo/Fluent-M3U8-Website/edit/main/docs/:path',
+        text: "在 GitHub 上编辑此页面"
+    },
+
+    lastUpdatedText: '最后更新于',
+    returnToTopLabel: '返回顶部',
+
+    docFooter: {
+        prev: '上一页',
+        next: '下一页'
+    },
+
+    outline: {
+        level: "deep", // 右侧大纲标题层级
+        label: "目录", // 右侧大纲标题文本配置
+    },
+
     // search: {
     //     provider: 'algolia',
     //     options: {

@@ -23,5 +23,6 @@ export default defineConfig({
   },
   sitemap: {
     hostname: 'https://fluent-meu8.org'
-  }
+  },
+  lastUpdated: true
 })

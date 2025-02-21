@@ -36,6 +36,15 @@ const enUSThemeConfig = {
         copyright: '© 2025 Shokokawaii Inc. All rights reserved.'
     },
 
+    editLink: {
+        pattern: 'https://github.com/zhiyiYo/Fluent-M3U8-Website/edit/main/docs/:path',
+        text: "Edit this page on GitHub"
+    },
+
+    outline: {
+        level: "deep", // 右侧大纲标题层级
+    },
+
     // search: {
     //     provider: 'algolia',
     //     options: {
