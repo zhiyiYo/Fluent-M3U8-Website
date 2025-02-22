@@ -1,6 +1,11 @@
 # 更新日志
 
-## [0.6.0](https://github.com/zhiyiYo/Fluent-M3U8/releases/tag/v0.6.0) <Badge type="tip" text="最新版" />
+## [0.7.0](https://github.com/zhiyiYo/Fluent-M3U8/releases/tag/v0.7.0) <Badge type="tip" text="最新版" />
+* 添加创建下载任务后自动清空输入框的功能
+* 移除云母特效
+* 修复无法获取新版本的问题
+
+## [0.6.0](https://github.com/zhiyiYo/Fluent-M3U8/releases/tag/v0.6.0)
 * 添加 macOS 菜单栏
 * 添加广告过滤配置项
 * 修复任务卡片选择状态没有及时更新的问题

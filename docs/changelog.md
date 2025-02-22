@@ -1,6 +1,11 @@
 # Changelog
 
-## [0.6.0](https://github.com/zhiyiYo/Fluent-M3U8/releases/tag/v0.6.0) <Badge type="tip" text="Latest" />
+## [0.7.0](https://github.com/zhiyiYo/Fluent-M3U8/releases/tag/v0.7.0) <Badge type="tip" text="Latest" />
+* Add the feature to automatically clear the input box after creating a download task
+* Remove the mica effect
+* Fix the issue where the new version cannot be retrieved
+
+## [0.6.0](https://github.com/zhiyiYo/Fluent-M3U8/releases/tag/v0.6.0)
 * Add macOS menu bar
 * Add ad filtering configuration
 * Fix the issue where the task card selection status was not updated in time
