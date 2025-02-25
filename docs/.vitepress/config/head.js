@@ -12,7 +12,6 @@ const headConfig = [
     ['meta', { property: 'og:description', content: 'Discover and download m3u8, mpd, and more.' }],
     ['meta', { property: 'og:locale', content: 'en_US' }],
     ['meta', { property: 'og:type', content: 'website' }],
-    ['meta', { name: 'google-adsense-account', content: 'ca-pub-9956867383311537'}]
 ]
 
 export default headConfig
