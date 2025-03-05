@@ -1,6 +1,10 @@
 # 更新日志
 
-## [0.7.0](https://github.com/zhiyiYo/Fluent-M3U8/releases/tag/v0.7.0) <Badge type="tip" text="最新版" />
+## [0.8.0](https://github.com/zhiyiYo/Fluent-M3U8/releases/tag/v0.8.0) <Badge type="tip" text="最新版" />
+* 修复无法更换下载目录的问题
+* 修复无下载任务提示问题
+
+## [0.7.0](https://github.com/zhiyiYo/Fluent-M3U8/releases/tag/v0.7.0)
 * 添加创建下载任务后自动清空输入框的功能
 * 移除云母特效
 * 修复无法获取新版本的问题

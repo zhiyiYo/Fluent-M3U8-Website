@@ -1,6 +1,10 @@
 # Changelog
 
-## [0.7.0](https://github.com/zhiyiYo/Fluent-M3U8/releases/tag/v0.7.0) <Badge type="tip" text="Latest" />
+## [0.8.0](https://github.com/zhiyiYo/Fluent-M3U8/releases/tag/v0.8.0) <Badge type="tip" text="Latest" />
+* Fixed the issue of not being able to change the download directory
+* Fixed the issue of not displaying download task prompts
+
+## [0.7.0](https://github.com/zhiyiYo/Fluent-M3U8/releases/tag/v0.7.0)
 * Add the feature to automatically clear the input box after creating a download task
 * Remove the mica effect
 * Fix the issue where the new version cannot be retrieved
