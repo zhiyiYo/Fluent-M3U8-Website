@@ -1,6 +1,13 @@
 # Changelog
 
-## [0.8.0](https://github.com/zhiyiYo/Fluent-M3U8/releases/tag/v0.8.0) <Badge type="tip" text="Latest" />
+## [0.10.0](https://github.com/zhiyiYo/Fluent-M3U8/releases/tag/v0.10.0) <Badge type="tip" text="Latest" />
+* Added the feature to retain subtitle segments
+* Fixed MPD parsing issues
+
+## [0.9.0](https://github.com/zhiyiYo/Fluent-M3U8/releases/tag/v0.9.0)
+* Added the option for stream mixing
+
+## [0.8.0](https://github.com/zhiyiYo/Fluent-M3U8/releases/tag/v0.8.0)
 * Fixed the issue of not being able to change the download directory
 * Fixed the issue of not displaying download task prompts
 

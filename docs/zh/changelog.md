@@ -1,6 +1,13 @@
 # 更新日志
 
-## [0.8.0](https://github.com/zhiyiYo/Fluent-M3U8/releases/tag/v0.8.0) <Badge type="tip" text="最新版" />
+## [0.10.0](https://github.com/zhiyiYo/Fluent-M3U8/releases/tag/v0.10.0) <Badge type="tip" text="最新版" />
+* 添加保留字幕分片的功能
+* 修复 mpd 解析问题
+
+## [0.9.0](https://github.com/zhiyiYo/Fluent-M3U8/releases/tag/v0.9.0)
+* 添加混流选项
+
+## [0.8.0](https://github.com/zhiyiYo/Fluent-M3U8/releases/tag/v0.8.0)
 * 修复无法更换下载目录的问题
 * 修复无下载任务提示问题
 
