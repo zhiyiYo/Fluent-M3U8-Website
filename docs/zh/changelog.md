@@ -1,6 +1,9 @@
 # 更新日志
 
-## [0.10.0](https://github.com/zhiyiYo/Fluent-M3U8/releases/tag/v0.10.0) <Badge type="tip" text="最新版" />
+## [0.11.0](https://github.com/zhiyiYo/Fluent-M3U8/releases/tag/v0.11.0) <Badge type="tip" text="最新版" />
+* 修复带参数的下载链接解析问题
+
+## [0.10.0](https://github.com/zhiyiYo/Fluent-M3U8/releases/tag/v0.10.0)
 * 添加保留字幕分片的功能
 * 修复 mpd 解析问题
 

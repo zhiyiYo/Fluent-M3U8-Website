@@ -1,6 +1,9 @@
 # Changelog
 
-## [0.10.0](https://github.com/zhiyiYo/Fluent-M3U8/releases/tag/v0.10.0) <Badge type="tip" text="Latest" />
+## [0.11.0](https://github.com/zhiyiYo/Fluent-M3U8/releases/tag/v0.11.0) <Badge type="tip" text="Latest" />
+* Fixed url parsing issues
+
+## [0.10.0](https://github.com/zhiyiYo/Fluent-M3U8/releases/tag/v0.10.0)
 * Added the feature to retain subtitle segments
 * Fixed MPD parsing issues
 
