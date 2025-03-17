@@ -25,7 +25,6 @@ const zhCNThemeConfig = {
 
     socialLinks: [
         { icon: 'github', link: 'https://github.com/zhiyiYo/Fluent-M3U8' },
-        { icon: 'bilibili', link: 'https://www.bilibili.com/video/BV1SHNDebE2d' },
         { icon: 'kofi', link: 'https://ko-fi.com/zhiyiYo' },
         { icon: 'afdian', link: 'https://afdian.com/a/zhiyiyo' },
     ],

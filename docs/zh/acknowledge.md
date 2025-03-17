@@ -33,7 +33,7 @@ const members = [
     title: '总开发 / 总设计 / 创始人',
     links: [
       { icon: 'github', link: 'https://github.com/zhiyiYo/' },
-      { icon: 'bilibili', link: 'https://space.bilibili.com/471587058' },
+      { icon: 'afdian', link: 'https://afdian.com/a/zhiyiYo' },
     ],
   },
   {

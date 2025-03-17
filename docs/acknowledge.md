@@ -33,7 +33,7 @@ const members = [
     title: 'Lead Developer / Designer / Founder',
     links: [
       { icon: 'github', link: 'https://github.com/zhiyiYo/' },
-      { icon: 'bilibili', link: 'https://space.bilibili.com/471587058' },
+      { icon: 'kofi', link: 'https://ko-fi.com/zhiyiYo' },
     ],
   },
   {
