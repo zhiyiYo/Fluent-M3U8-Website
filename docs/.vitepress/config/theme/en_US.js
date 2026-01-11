@@ -6,6 +6,7 @@ const enUSThemeConfig = {
         { text: 'Home', link: '/' },
         { text: 'Download', link: '/download' },
         { text: 'Docs', link: '/quick-start' },
+        { text: 'Pricing', link: '/price' },
         // { text: 'Support', link: '/support' },
         // { text: 'Acknowledge', link: '/acknowledge' },
         { text: 'QFluentWidgets', link: 'https://qfluentwidgets.com' },
@@ -31,7 +32,7 @@ const enUSThemeConfig = {
     ],
 
     footer: {
-        message: `Released under GPLv3 License`,
+        message: `Fluent M3U8`,
         copyright: '© 2025 Shokokawaii Inc. All rights reserved.'
     },
 

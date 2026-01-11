@@ -1,5 +1,5 @@
 # Support Us
-Fluent M3U8, as an open-source project licensed under GPLv3, is dedicated to creating a completely free, ad-free program that prioritizes user privacy.
+Fluent M3U8, as an open-source project licensed under GPLv3, is dedicated to creating an ad-free program that prioritizes user privacy.
 
 If you have extra funds to support Fluent M3U8, your generous donations will not only help the development team but also benefit every Fluent M3U8 user. Currently, you can donate to us in the following ways:
 

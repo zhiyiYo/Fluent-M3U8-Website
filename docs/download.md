@@ -1,6 +1,10 @@
 
 # Download
 
+::: tip Support US ❤️
+Fluent M3U8 Professional Edition is now available, supporting advanced features such as API calls and the Cat Claw plugin. Just a cup of coffee, [learn more](/price)!
+:::
+
 ::: warning
 We only maintain the latest version. Any issues with older versions should be confirmed to still exist in the latest version before reporting.
 

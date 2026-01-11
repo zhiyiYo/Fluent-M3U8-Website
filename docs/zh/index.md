@@ -15,7 +15,7 @@ hero:
       link: /zh/quick-start
     - theme: alt
       text: 下载
-      link: /zh/download
+      link: /zh/price
 
 features:
   - title: 界面美观易用

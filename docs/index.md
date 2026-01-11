@@ -15,7 +15,7 @@ hero:
       link: /quick-start
     - theme: alt
       text: Download
-      link: /download
+      link: /price
 
 features:
   - title: Simple and Beautiful

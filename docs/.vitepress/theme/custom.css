@@ -20,3 +20,18 @@
 .profile .avatar {
     box-shadow: none !important;
 }
+
+/* Hide prev/next buttons on pricing pages */
+.pricing-page ~ .VPDocFooter,
+.page:has(.pricing-page) .VPDocFooter {
+    display: none !important;
+}
+
+/* Ensure pricing page content is centered and full width */
+.page:has(.pricing-page) .VPContent {
+    max-width: 100% !important;
+}
+
+.page:has(.pricing-page) .VPContent .container {
+    max-width: 100% !important;
+}

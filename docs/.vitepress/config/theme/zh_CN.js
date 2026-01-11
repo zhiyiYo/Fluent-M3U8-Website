@@ -6,6 +6,7 @@ const zhCNThemeConfig = {
         { text: '主页', link: '/zh/' },
         { text: '下载', link: '/zh/download' },
         { text: '文档', link: '/zh/quick-start' },
+        { text: '价格', link: '/zh/price' },
         { text: '支持', link: '/zh/support' },
         { text: '组件库', link: 'https://qfluentwidgets.com/zh/' },
     ],
@@ -30,7 +31,7 @@ const zhCNThemeConfig = {
     ],
 
     footer: {
-        message: `根据 GPLv3 许可证进行授权`,
+        message: `Fluent M3U8`,
         copyright: '版权所有 © 2025 Shokokawaii Inc.'
     },
 
