@@ -21,8 +21,8 @@ const plans = [
     ]
   },
   {
-    name: 'Annual',
-    monthlyPrice: '$3/year',
+    name: 'Pro',
+    monthlyPrice: '$3',
     annualPrice: null,
     buttonText: 'Buy plan',
     summary: 'More features, great value',
@@ -39,14 +39,14 @@ const plans = [
     ]
   },
   {
-    name: 'Permanent',
+    name: 'Gold',
     monthlyPrice: '$5',
     annualPrice: null,
     buttonText: 'Buy plan',
     summary: 'Pay once, use forever',
     purchaseLink: 'https://afdian.com/item/c81f799aeebe11f0b5a752540025c377',
     features: [
-      'Bind to 1 PC',
+      'Bind to 2 PC',
       'Support m3u8 format',
       'Support mpd format',
       'Batch download',

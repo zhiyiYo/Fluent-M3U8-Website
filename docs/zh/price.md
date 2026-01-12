@@ -21,8 +21,8 @@ const plans = [
     ]
   },
   {
-    name: '年付版',
-    monthlyPrice: '￥16/年',
+    name: '专业版',
+    monthlyPrice: '￥16',
     annualPrice: null,
     buttonText: '立即购买',
     summary: '更多功能特性，仅需一杯奶茶的价格',
@@ -39,7 +39,7 @@ const plans = [
     ]
   },
   {
-    name: '永久版',
+    name: '至尊版',
     monthlyPrice: '￥29',
     annualPrice: null,
     buttonText: '立即购买',
@@ -47,7 +47,7 @@ const plans = [
     purchaseLink: 'https://item.taobao.com/item.htm?id=1010809611951',
     features: [
       '终身使用',
-      '绑定 1 台电脑',
+      '绑定 2 台电脑',
       '支持 m3u8 格式',
       '支持 mpd 格式',
       '支持批量下载',
