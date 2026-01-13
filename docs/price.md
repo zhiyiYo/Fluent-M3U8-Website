@@ -53,7 +53,6 @@ const plans = [
       'API calls support',
       'Compatible with Cat Catch plugin',
       'Customer group service',
-      'Lifetime access'
     ]
   }
 ]

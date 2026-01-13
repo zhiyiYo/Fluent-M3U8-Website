@@ -46,7 +46,6 @@ const plans = [
     summary: '一次购买，终身享受',
     purchaseLink: 'https://item.taobao.com/item.htm?id=1010809611951',
     features: [
-      '终身使用',
       '绑定 2 台电脑',
       '支持 m3u8 格式',
       '支持 mpd 格式',
