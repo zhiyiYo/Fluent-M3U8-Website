@@ -1,5 +1,6 @@
 docs/.vitepress/cache
 docs/.vitepress/.temp
+dev/.vitepress/cache
 node_modules
 .temp
 .cache

@@ -17,7 +17,6 @@ const plans = [
     features: [
       'Support m3u8 format',
       'Support mpd format',
-      'Batch download'
     ]
   },
   {
@@ -30,9 +29,9 @@ const plans = [
     purchaseLink: 'https://afdian.com/item/c81f799aeebe11f0b5a752540025c377',
     features: [
       'Bind to 1 PC',
+      'Support watching while downloading',
       'Support m3u8 format',
       'Support mpd format',
-      'Batch download',
       'API calls support',
       'Compatible with Cat Catch plugin',
       'Customer group service',
@@ -47,9 +46,9 @@ const plans = [
     purchaseLink: 'https://afdian.com/item/c81f799aeebe11f0b5a752540025c377',
     features: [
       'Bind to 2 PC',
+      'Support watching while downloading',
       'Support m3u8 format',
       'Support mpd format',
-      'Batch download',
       'API calls support',
       'Compatible with Cat Catch plugin',
       'Customer group service',

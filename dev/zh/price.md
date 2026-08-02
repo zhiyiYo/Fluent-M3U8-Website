@@ -17,7 +17,6 @@ const plans = [
     features: [
       '支持 m3u8 格式',
       '支持 mpd 格式',
-      '支持批量下载',
     ]
   },
   {
@@ -30,9 +29,9 @@ const plans = [
     purchaseLink: 'https://afdian.com/item/c81f799aeebe11f0b5a752540025c377',
     features: [
       '绑定 1 台电脑',
+      '支持边看边下',
       '支持 m3u8 格式',
       '支持 mpd 格式',
-      '支持批量下载',
       '支持断点续传',
       '支持 API 调用，适配猫抓插件',
       '专属官方交流群服务'
@@ -47,9 +46,9 @@ const plans = [
     purchaseLink: 'https://afdian.com/item/c81f799aeebe11f0b5a752540025c377',
     features: [
       '绑定 2 台电脑',
+      '支持边看边下',
       '支持 m3u8 格式',
       '支持 mpd 格式',
-      '支持批量下载',
       '支持断点续传',
       '支持 API 调用，适配猫抓插件',
       '专属官方交流群服务'
