@@ -47,6 +47,23 @@ If the software fails to start on Windows, please try running it with administra
 3. Drag the txt file directly into the software’s main interface, or enter the absolute path of the txt file.
 4. Click the 【▶️ Download】 button.
 
+
+### Watch while downloading
+
+You don’t have to wait for the download to finish. The progress bar clearly marks playable sections, and you can jump in and watch whenever you like!
+
+<img src="/img/WatchWhileDownload.png" style="height: 30%"/>
+
+
+### Youtube download
+
+<img src="/img/Youtube.png" style="height: 30%"/>
+
+1. Paste a YouTube video, playlist, or channel link.
+2. Click the【Parse】 button in the bottom-right corner.
+3. Select the videos you want, then click the【▶️ Download】 button.
+
+
 ### Task Management
 <img src="/img/TaskInterface.png" style="height: 30%"/>
 

@@ -47,6 +47,21 @@ Windows 如果无法启动软件请使用管理员权限重试。
 3. 将 txt 直接拖入软件的主页界面，或者填入 txt 文件的绝对路径
 4. 点击【▶️ 下载】按钮
 
+### 边下边看
+
+下载不必等到最后一秒。视频下载过程中，已完成的片段会实时变为可播放内容：下到哪里，就看到哪里。进度条清楚标记可播放区间，方便随时跳转查看！
+
+<img src="/img/WatchWhileDownload.png" style="height: 30%"/>
+
+
+### Youtube 视频下载
+
+<img src="/img/Youtube.png" style="height: 30%"/>
+
+1. 填入 YouTube 视频、播放列表或者频道的链接
+2. 点击右下角【解析】按钮
+3. 选择要下载的视频之后点击【▶️ 下载】按钮
+
 ### 任务管理
 <img src="/img/TaskInterface.png" style="height: 30%"/>
 
