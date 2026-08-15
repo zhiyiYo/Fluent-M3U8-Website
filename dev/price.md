@@ -30,6 +30,7 @@ const plans = [
     features: [
       'Bind to 1 PC',
       'Support watching while downloading',
+      'Support downloading Youtube',
       'Support m3u8 format',
       'Support mpd format',
       'API calls support',
@@ -47,6 +48,7 @@ const plans = [
     features: [
       'Bind to 2 PC',
       'Support watching while downloading',
+      'Support downloading Youtube',
       'Support m3u8 format',
       'Support mpd format',
       'API calls support',

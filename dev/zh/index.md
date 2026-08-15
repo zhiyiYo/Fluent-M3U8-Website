@@ -25,12 +25,12 @@ features:
     linkText: 了解组件库
   - title: 支持多种格式
     icon: ⏬
-    details: 全面兼容 m3u8 和 mpd 视频格式，支持批量下载
+    details: 全面兼容 m3u8 和 mpd 视频格式，支持 Youtube 视频下载
     link: /zh/quick-start
     linkText: 查看用法
   - title: 多线程并发下载
     icon: 🚀
-    details: 轻松榨干带宽资源，视频下载速度快到飞起
+    details: 轻松榨干带宽资源，支持边下边看，视频下载速度快到飞起
     link: /zh/quick-start
     linkText: 了解更多
   - title: 智能下载管理

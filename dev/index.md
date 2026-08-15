@@ -26,7 +26,7 @@ features:
 
   - title: Supports Multiple Formats
     icon: ⏬
-    details: Fully compatible with m3u8 and mpd video formats.
+    details: Support downloading m3u8, mpd and Youtube video.
     link: /quick-start
     linkText: Learn more
 
