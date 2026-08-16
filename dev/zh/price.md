@@ -26,7 +26,7 @@ const plans = [
     buttonText: '立即购买',
     summary: '更多功能特性，仅需一杯奶茶的价格',
     popular: true,
-    purchaseLink: 'https://afdian.com/item/c81f799aeebe11f0b5a752540025c377',
+    purchaseLink: 'https://item.taobao.com/item.htm?id=1010809611951',
     features: [
       '绑定 1 台电脑',
       '支持边看边下',
@@ -44,7 +44,7 @@ const plans = [
     annualPrice: null,
     buttonText: '立即购买',
     summary: '一次购买，终身享受',
-    purchaseLink: 'https://afdian.com/item/c81f799aeebe11f0b5a752540025c377',
+    purchaseLink: 'https://item.taobao.com/item.htm?id=1010809611951',
     features: [
       '绑定 2 台电脑',
       '支持边看边下',
